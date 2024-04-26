@@ -34,11 +34,5 @@ pub fn is_armstrong_number(num: u32) -> bool {
 
     sum == num as u64
 
-
-    // if sum == num as u64{
-    //     return true;
-    // } else {
-    //     return false;
-    // }
-
+ 
 }
